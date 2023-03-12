@@ -1,4 +1,10 @@
 mi historio en GIT
 
 jaime tavares 32 años
+<<<<<<< HEAD
 y hablamos
+=======
+y hablamos de platzi.
+otro intenteo.
+nuevamente otro.
+>>>>>>> f819011
