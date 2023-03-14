@@ -8,3 +8,5 @@ y hablamos de platzi.
 otro intenteo.
 nuevamente otro.
 >>>>>>> f819011
+
+cabecera se modifica
