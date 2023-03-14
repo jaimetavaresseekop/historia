@@ -1,9 +1,9 @@
 mi historio en GIT
 
 jaime tavares 32 años
-<<<<<<< HEAD
+se quita los raro que habia de head <<
 y hablamos
-=======
+y tambien los iguales =
 y hablamos de platzi.
 otro intenteo.
 nuevamente otro.
